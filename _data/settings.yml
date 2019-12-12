@@ -31,7 +31,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://cloudcma.com/api_widget/6905dc94eee8e5116eb37668b68e327b/show?post_url=cloudcma.com&source_url=ua
   second_CTA_text: Home Search
-  second_CTA_URL: http://rebeccaandcompany.com/
+  second_CTA_URL: https://rebeccamendoza.kw.com/search?viewport=42.26140062502854%2C-48.29590781249999%2C-29.954523091516904%2C-143.1298921875&zoom=4
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -45,7 +45,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a Santa Clarita Home?"
     CTA_text2: "Search the entire MLS for your Santa Clarita home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://rebeccaandcompany.com/
+    CTA_url2: https://rebeccamendoza.kw.com/search?viewport=42.26140062502854%2C-48.29590781249999%2C-29.954523091516904%2C-143.1298921875&zoom=4
 
 lender:
   show_section: false
