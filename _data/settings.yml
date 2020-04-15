@@ -1,6 +1,12 @@
 audit_header: false
 title: Santa Clarita Real Estate Video Blog with Rebecca Mendoza
-description: Our mission at Rebecca & Co. is to be your best resource for Santa Clarita real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Rebecca & Co., your professional Santa Clarita Real Estate Agents.
+description: >-
+  Our mission at Rebecca & Co. is to be your best resource for Santa Clarita
+  real estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
+  you are looking to buy or sell a home, you can get all the information and the
+  latest updates, tips, and tricks from The Rebecca & Co., your professional
+  Santa Clarita Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -9,44 +15,53 @@ show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
     url:
-
 client:
   name: Rebecca Mendoza
   title:
   license_number: 'BRE#: 01291497'
-  about_markdown: |
-    Rebecca Mendoza has been a resident of Valencia for over 30 years, and has over 19 years of experience helping people buy and sell homes in the Santa Clarita Valley and surrounding areas of LA County and is consistently ranked in the top 3% of Keller Williams VIP Realty. Selling over 1,000 homes has made her extremely knowledgeable of the city, neighborhoods, and current market conditions that will help you find and negotiate your dream home. Rebecca’s focus on working with sellers makes her an expert on home inventory, pricing, and negotiating on the seller’s behalf so they get the top price possible for their home. Rebecca’s mission is to increase value to the lives of her clients, friends, and family one homeowner at a time.
+  about_markdown: >-
+    Rebecca Mendoza has been a resident of Valencia for over 30 years, and has
+    over 19 years of experience helping people buy and sell homes in the Santa
+    Clarita Valley and surrounding areas of LA County. Selling over 1,000 homes
+    has made her extremely knowledgeable of the city, neighborhoods, and current
+    market conditions that will help you find and negotiate your dream home.
+    Rebecca’s focus on working with sellers makes her an expert on home
+    inventory, pricing, and negotiating on the seller’s behalf so they get the
+    top price possible for their home. Rebecca’s mission is to increase value to
+    the lives of her clients, friends, and family one homeowner at a time.
   brand: Rebecca & Co.
-  brokerage: Keller Williams VIP Properties
+  brokerage: CENTURY 21 Everest
   market: Santa Clarita
-  address: 25124 Springfield Court, Suite 100 Santa Clarita, CA, 91355
+  address: '23822 Valencia Bl. Ste.101 Valencia, CA 91355'
   phone: 661-755-7895
   phone_type:
   phone2:
   phone2_type:
   email: rebeccamendoza@kw.com
-  url: http://rebeccaandcompany.com
-
+  url: 'http://rebeccaandcompany.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://cloudcma.com/api_widget/6905dc94eee8e5116eb37668b68e327b/show?post_url=cloudcma.com&source_url=ua
+  first_CTA_URL: >-
+    https://cloudcma.com/api_widget/6905dc94eee8e5116eb37668b68e327b/show?post_url=cloudcma.com&source_url=ua
   second_CTA_text: Home Search
-  second_CTA_URL: https://rebeccamendoza.kw.com/search?viewport=42.26140062502854%2C-48.29590781249999%2C-29.954523091516904%2C-143.1298921875&zoom=4
-
+  second_CTA_URL: >-
+    https://rebeccamendoza.kw.com/search?viewport=42.26140062502854%2C-48.29590781249999%2C-29.954523091516904%2C-143.1298921875&zoom=4
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your Santa Clarita Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: https://cloudcma.com/api_widget/6905dc94eee8e5116eb37668b68e327b/show?post_url=cloudcma.com&source_url=ua
-
+    CTA_title: What’s Your Santa Clarita Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Home Value Report
+    CTA_url: >-
+      https://cloudcma.com/api_widget/6905dc94eee8e5116eb37668b68e327b/show?post_url=cloudcma.com&source_url=ua
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a Santa Clarita Home?"
-    CTA_text2: "Search the entire MLS for your Santa Clarita home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: https://rebeccamendoza.kw.com/search?viewport=42.26140062502854%2C-48.29590781249999%2C-29.954523091516904%2C-143.1298921875&zoom=4
-
+    CTA_title2: Looking for a Santa Clarita Home?
+    CTA_text2: Search the entire MLS for your Santa Clarita home.
+    CTA_link_text2: Search the MLS
+    CTA_url2: >-
+      https://rebeccamendoza.kw.com/search?viewport=42.26140062502854%2C-48.29590781249999%2C-29.954523091516904%2C-143.1298921875&zoom=4
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -59,59 +74,65 @@ lender:
   phone:
   email:
   url:
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/rebecca.c.mendoza
-  linkedin_url: https://www.linkedin.com/in/rebeccacmendoza/
-  youtube_url: https://www.youtube.com/channel/UCUTOmuE_IXAoJPKjXBeF-aQ
-  twitter_url: https://twitter.com/RealRebeccas
-  instagram_url: https://www.instagram.com/realrebeccas/
+  facebook_url: 'https://www.facebook.com/rebecca.c.mendoza'
+  linkedin_url: 'https://www.linkedin.com/in/rebeccacmendoza/'
+  youtube_url: 'https://www.youtube.com/channel/UCUTOmuE_IXAoJPKjXBeF-aQ'
+  twitter_url: 'https://twitter.com/RealRebeccas'
+  instagram_url: 'https://www.instagram.com/realrebeccas/'
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
-  title: 'Santa Clarita Real Estate Podcast with Rebecca Mendoza'
-  categories: Education
+  title: Santa Clarita Real Estate Podcast with Rebecca Mendoza
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Santa Clarita Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Rebecca & Co. - your professional Santa Clarita Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Santa Clarita, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Rebecca Mendoza'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the Santa
+    Clarita Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Rebecca & Co. - your professional
+    Santa Clarita Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in Santa Clarita,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
+  author: Rebecca Mendoza
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Santa Clarita Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
   post_cta_image2: /img/home-search.jpg
-
 site_colors:
   brand_color: '#57c5c7'
   theme_color: '#3a3a3c'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: black
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#57c5c7'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
