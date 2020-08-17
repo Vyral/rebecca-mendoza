@@ -8,8 +8,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/games-yt-rebecca-mendoza.jpg
 youtube_code: JmPumD5MHhg
 ---
 
@@ -17,7 +17,7 @@ youtube_code: JmPumD5MHhg
 
 We’re reaching out to invite you to one of our upcoming events that you won’t want to miss: our Music Bingo Party on August 21 at 6:30 p.m.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;[![](/uploads/rebecca.JPG){: width="182" height="65"}](https://www.eventbrite.com/e/virtual-music-bingo-rebecca-and-co-real-estate-group-tickets-115599696805?aff=efbeventtix&amp;fbclid=IwAR3I0urIQHpNIdu2dnXgy635Vm8E26Yi-_M2l2BN350j0QdhMAZPQNJDhZE){: target="_blank" rel="noopener"}
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[![](/uploads/rebecca.JPG){: width="182" height="65"}](https://www.eventbrite.com/e/virtual-music-bingo-rebecca-and-co-real-estate-group-tickets-115599696805?aff=efbeventtix&amp;fbclid=IwAR3I0urIQHpNIdu2dnXgy635Vm8E26Yi-_M2l2BN350j0QdhMAZPQNJDhZE){: target="_blank" rel="noopener"}
 
 So how does a Music Bingo Party work? Well, we’ll have three Bingo cards, and the DJ will play some music from the 80s and 90s—if you have the song that is playing, you’ll market it down on your bingo card. When you get a bingo, you’ll win a prize\!
 
@@ -29,6 +29,6 @@ We’ll have three different games with three different prizes, including gift c
 4. If you’ve given us a real estate referral in the past eight months, you’ll get three entries\!
 5. If you give us a referral between now until August 21, you’ll get five entries\!
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[![](/uploads/rebecca.JPG){: width="182" height="65"}](https://www.eventbrite.com/e/virtual-music-bingo-rebecca-and-co-real-estate-group-tickets-115599696805?aff=efbeventtix&amp;fbclid=IwAR3I0urIQHpNIdu2dnXgy635Vm8E26Yi-_M2l2BN350j0QdhMAZPQNJDhZE){: target="_blank" rel="noopener"}
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[![](/uploads/rebecca.JPG){: width="182" height="65"}](https://www.eventbrite.com/e/virtual-music-bingo-rebecca-and-co-real-estate-group-tickets-115599696805?aff=efbeventtix&amp;fbclid=IwAR3I0urIQHpNIdu2dnXgy635Vm8E26Yi-_M2l2BN350j0QdhMAZPQNJDhZE){: target="_blank" rel="noopener"}
 
 So if you or someone you know needs assistance with real estate, don’t hesitate to reach out to us. We’d love to be your resource. In the meantime, be sure to save the date for our Zoom Music Bingo Party—hope to see you there\!
