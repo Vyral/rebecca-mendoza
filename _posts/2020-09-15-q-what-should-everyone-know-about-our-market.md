@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Should Everyone Know About Our Market?'
-date: 2020-09-15 14:45:16
+date: 2020-09-15 14:45:00
 tags:
 excerpt: Here are the three things everyone should know about our current market.
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Vb5LsPGiVEo
+youtube_code: aiVV89n2ihk
 ---
 
 {% include youtube.html %}
